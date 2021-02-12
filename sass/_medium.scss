@@ -1,33 +1,32 @@
+header h1 {
+    font-size: 2.85rem;
+}
 
-    header h1 {
-        font-size: 2.85rem;
-    }
+header h2 {
+    font-size: 1.5rem;
+}
 
-    header h2 {
-        font-size: 1.5rem;
-    }
+header img {
+    height: 100px;
+}
 
-    header img {
-        height: 100px;
-    }
+.medium-6 {
+    width: 50%;
+}
 
-    .medium-6 {
-        width: 50%;
-    }
+.medium-4 {
+    width: 33.3333333%;
+}
 
-    .medium-4{
-        width: 33.3333333%;
-    }
+button#hamburgerBtn {
+    display: none;
+}
 
-    button#hamburgerBtn {
-        display: none;
-    }
+nav ul {
+    display: block;
+}
 
-    nav ul {
-        display: block;
-    }
-
-    nav li {
-        width: 25%;
-        float: left;
-    }
+nav li {
+    width: 25%;
+    float: left;
+}
